@@ -1,8 +1,15 @@
+import Title from "./title/Title";
 
 
-const Details = () => {
+
+const Details = ({ single }) => {
+    console.log(single);
     return (
-        <div>Details</div>
+        <div>
+            <div>
+                {single.map(item => <Title single={item}/>)}
+            </div>
+        </div>
     )
 }
 
