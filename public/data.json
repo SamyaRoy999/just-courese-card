@@ -4,7 +4,7 @@
         "title": "Introduction to Python Programming",
         "description": "Learn the fundamentals of Python programming language.",
         "price": 49.99,
-        "img": "https://example.com/python_course_image.jpg",
+        "img": "../src/assets/0c497ab31f5b2b1b3718bbc3da1b2dde80f6214a-1456x816.webp",
         "credit": 3
     },
     {
@@ -12,7 +12,7 @@
         "title": "Web Development with JavaScript",
         "description": "Master the essentials of front-end web development using JavaScript.",
         "price": 59.99,
-        "img": "https://example.com/javascript_course_image.jpg",
+        "img": "../src/assets/2314160_8d61_6.jpg",
         "credit": 4
     },
     {
@@ -20,7 +20,7 @@
         "title": "Data Science Fundamentals",
         "description": "Explore the world of data science and analytics with Python and libraries like NumPy and Pandas.",
         "price": 69.99,
-        "img": "https://example.com/data_science_course_image.jpg",
+        "img": "../src/assets/518b84c6a380351b1aeec9449cd44c2bf156bee9-1456x816.webp",
         "credit": 5
     },
     {
@@ -28,7 +28,7 @@
         "title": "Machine Learning Basics",
         "description": "Introduction to machine learning algorithms and techniques.",
         "price": 79.99,
-        "img": "https://example.com/machine_learning_course_image.jpg",
+        "img": "../src/assets/images (2).jfif",
         "credit": 6
     },
     {
@@ -36,7 +36,7 @@
         "title": "Introduction to Artificial Intelligence",
         "description": "Learn the basics of AI, including neural networks and deep learning.",
         "price": 89.99,
-        "img": "https://example.com/ai_course_image.jpg",
+        "img": "../src/assets/images (1).jfif",
         "credit": 6
     },
     {
@@ -44,7 +44,7 @@
         "title": "Ethical Hacking and Cybersecurity",
         "description": "Explore the techniques and tools used by ethical hackers to secure systems.",
         "price": 99.99,
-        "img": "https://example.com/ethical_hacking_course_image.jpg",
+        "img": "../src/assets/images.jfif",
         "credit": 7
     },
     {
@@ -52,7 +52,7 @@
         "title": "Project Management Fundamentals",
         "description": "Learn the essentials of project management, including planning, execution, and monitoring.",
         "price": 79.99,
-        "img": "https://example.com/project_management_course_image.jpg",
+        "img": "../src/assets/javascript-51f65a000ac5f98e707cac1fbdf54c209529157ff399544518dba9c47b1f31da.png",
         "credit": 5
     },
     {
@@ -60,7 +60,7 @@
         "title": "Digital Marketing Strategies",
         "description": "Explore various digital marketing channels and strategies for online promotion.",
         "price": 69.99,
-        "img": "https://example.com/digital_marketing_course_image.jpg",
+        "img": "../src/assets/images (1).jfif",
         "credit": 4
     },
     {
@@ -68,7 +68,7 @@
         "title": "Financial Literacy",
         "description": "Learn the basics of personal finance, including budgeting, investing, and retirement planning.",
         "price": 59.99,
-        "img": "https://example.com/financial_literacy_course_image.jpg",
+        "img": "../src/assets/images (2).jfif",
         "credit": 3
     }
 ]
